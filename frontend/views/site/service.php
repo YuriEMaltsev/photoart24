@@ -1,14 +1,16 @@
+<?php
 /* @var $this yii\web\View */
 
 use yii\helpers\Html;
 
-$this->title = 'Услуги';
+$this->title = 'РЈСЃР»СѓРіРё';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
+
 <div class="site-about">
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <p> Заготовка страницы о себе</p>
+    <p> Р—Р°РіРѕС‚РѕРІРєР° СЃС‚СЂР°РЅРёС†С‹ Рѕ СЃРµР±Рµ</p>
 
-    <code><?= __FILE__ ?></code>
+
 </div>
